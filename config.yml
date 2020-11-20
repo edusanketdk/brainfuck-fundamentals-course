@@ -3,14 +3,88 @@ description: Learn the most brain-teasing and extreme minimalistic language - Br
 template:
   repo: brainfuck-fundamentals-template
   name: brainfuck-fundamentals
-before:
-  - type: createIssue
-    title: Welcome!
-    body: new-issue.md
+  description: Learn the most brain-teasing and extreme minimalistic language - Brainfuck.
+before: []
 steps:
-  - title: First step
-    description: The first step in your course
+  - title: What is Brainfuck?
+    description: Know the wiki stuff
     event: issues.assigned
-    link: '{{ repoUrl }}'
+    link: link1
     actions:
       - type: closeIssue
+  - title: The 8 Pillars
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Know the only 8 operators used
+    link: link2
+  - title: A Simple Code
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Understand a simple increment decrement code
+    link: link3
+  - title: Simple While Loop
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Zero out a cell using while loop
+    link: link4
+  - title: For Loop
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Understand basic for loop
+    link: link5
+  - title: Print A Number
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: 'learn how to print '
+    link: link6
+  - title: Print A Character
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Understand printing characters
+  - title: Display A Sentance
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Print "THE LANGUAGE OF GODS"
+    link: link7
+  - title: Arithmetic Operations
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: 'Learn Addition, Subtraction, Multiplication and Division'
+    link: link10
+  - title: Move And Copy
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Learn moving and copying values between cells
+    link: link9
+  - title: If Condition
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Implement IF
+    link: link8
+  - title: Goodbye to the cool dude!
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Declaring the course and good project ideas
+    link: link11

@@ -1,9 +1,5 @@
-This is the description we show on the course page [here](https://lab.github.com/edusanketdk/brainfuck-fundamentals). This first paragraph will be featured at the top of the page so make it great.
-​
+"BRAINFUCK".
 
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
+Yes, the name says it out loud. It's gonna literally f*ck your brain. But who doesn't like brain teasers!
 
-
-Include information on how they can reach you for questions about the content or course. 
+So, join me in the ultimate learning of the coolest and hardest programming language on the face the Earth. Be the cool dude who knows 'THE LANGUAGE OF GODS'. :P
